@@ -1,0 +1,5 @@
+
+What code should do:
+- take different functions in an solve for x
+- have multiple different ways of solving
+- 
